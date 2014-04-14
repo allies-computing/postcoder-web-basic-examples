@@ -1,9 +1,10 @@
 PostCoder Web Examples
 ======================
 
-These are sample code to give examples of how to use the PostCoder Web API system in various different languages.
+These are basic sample code to give examples of how to use the PostCoder Web API system in PHP, Java, C# and VB .NET.
 
-Basic examples gives PHP, Java, C# and VB .NET examples.
+For more detailed examples in PHP, VB/C# and Javascript (jQuery):-
+https://github.com/allies-computing/
 
 More information on PostCoder Web:-
 http://www.alliescomputing.com/products/postcoder-web-api
